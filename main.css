@@ -1,0 +1,17 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background: #F7F8FA;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    color: #434E5E;
+}
+
+.resume-header {
+    background: #434E5E;
+    color: rgba(255, 255, 255, 0.9);
+    height: 220px;
+}
+
+.resume-content {
+    min-height: 200px;
+}
