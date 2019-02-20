@@ -12,6 +12,10 @@ body {
     height: 220px;
 }
 
+.resume-header a {
+    color: #a7c4ff;
+}
+
 .resume-content {
     min-height: 200px;
 }
